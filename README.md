@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pranaysharma553
+- 👋 Hi, I’m Pranay
 - An active learner and a web-dev enthusiast 
 - 👀 I’m interested in software development roles
 - 🌱 I’m currently learning 
