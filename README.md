@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pranay
-- An active learner and a web-dev enthusiast 
-- 👀 I’m interested in software development roles
+- A Computer Science Grad. and a web-dev enthusiast 
+- 👀 I laern things by doin' them!
 - 🌱 I’m currently learning 
 - 📫 sharmapranay55@gmail.com
 
